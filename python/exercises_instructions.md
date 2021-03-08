@@ -24,6 +24,9 @@ Learn the Python fundamentals:
 
 - In the folder `oecd-2021/ref`, navigate to the `python_intro` notebook.
 - Create a copy of the note  (by using the **Clone this note** button)
+
+![clone](./images/clone.png)
+
 - Name the copy as follows: `oecd-2021/firstname-lastname/python_intro`
 (e.g. `oecd-2021/petra-kaferle/python_intro`). This should create your folder in `oecd-2021/`.
 - Initialize your interpreter by running `%pyspark` in  the first cell.
